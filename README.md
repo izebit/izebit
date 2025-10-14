@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I’m Artem 👋  
 
-<!--
-**izebit/izebit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About
+Living in Brazil 🇧🇷  
+Here mostly to make something work — preferably with code, not duct tape.  
+I design and build backend systems that actually scale — and don’t fall apart under load.  
+I like solving problems around **data**, **distributed systems**, and **crypto infrastructure**.  
+
+---
+
+### 🔭 Interests
+Crypto · Functional Programming · Distributed Systems · Concurrency · System Design  
+
+---
+
+### 💡 Languages
+Java · Kotlin · Scala · Rust · Python · Haskell · JavaScript
+
+---
+
+> Code should be clean enough to trust — even when you’re half asleep.
+
+---
+
+### 📫 Let’s Connect  
+✉️ [izebit@gmail.com](mailto:izebit@gmail.com) · [LinkedIn](https://www.linkedin.com/in/conovart) · [Blog](https://izebit.ru) · [StackOverflow](https://ru.stackoverflow.com/users/10353)
+
